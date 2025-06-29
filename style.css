@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.page-header{
+    background-color: #ffde59;
+    text-align: center;
+}
+
+.logo-img{
+    width: 100px;
+}
+
+.fa-bars {
+    font-size: 24px;
+    cursor: pointer;
+    color: #333;
+    padding: 10px;
+}
+
+.page-footer{
+    background-color: #ffde59;
+    padding: 5px;
+    text-align: center;
+}
